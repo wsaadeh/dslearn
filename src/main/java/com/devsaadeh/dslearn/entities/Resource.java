@@ -1,6 +1,6 @@
 package com.devsaadeh.dslearn.entities;
 
-import com.devsaadeh.dslearn.enums.ResourceType;
+import com.devsaadeh.dslearn.entities.enums.ResourceType;
 import jakarta.persistence.*;
 import lombok.*;
 
