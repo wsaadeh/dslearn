@@ -15,5 +15,5 @@ import lombok.Setter;
 @Table(name = "tb_content")
 public class Content extends Lesson{
     private String textContent;
-    private String videoUrl;
+    private String videoUri;
 }
